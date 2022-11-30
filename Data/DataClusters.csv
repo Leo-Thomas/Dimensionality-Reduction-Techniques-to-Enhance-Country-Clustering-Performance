@@ -1,0 +1,25 @@
+country,Kmeans,MBKmeans,PCAKmeans,PCAMBKmeans,SPCAKmeans,SPCAMBKmeans,CURKmeans,CURMBKmeans,RPCAKmeans,RPCAMBKmeans,WPCAKmeans,WPCAMBKmeans
+Argentina,2,1,2,1,1,1,2,0,2,1,0,1
+Australia,0,0,0,0,0,0,1,2,1,0,2,0
+Brazil,0,0,0,0,0,0,1,2,1,0,2,0
+Canada,0,0,0,0,0,0,1,2,1,0,2,0
+China,1,2,1,2,2,2,1,1,0,2,1,2
+EU,1,2,1,2,2,2,1,2,2,1,1,2
+France,0,0,0,0,0,0,1,2,2,1,2,0
+Germany,0,0,0,0,0,0,1,1,1,2,2,0
+India,0,0,0,0,0,0,2,0,2,1,2,0
+Indonesia,0,0,0,0,0,0,1,2,1,0,2,0
+Italy,0,0,0,0,0,0,1,2,2,1,2,0
+Japan,0,0,0,0,0,0,1,1,1,2,2,0
+Mexico,0,0,0,0,0,0,1,1,1,0,2,0
+Netherlands,0,0,0,0,0,0,1,2,2,1,2,0
+Russia,0,0,0,0,0,0,1,1,0,2,2,0
+Saudi Arabia,0,0,0,0,0,0,2,0,1,0,2,0
+Singapore,0,0,0,0,0,0,1,2,2,1,2,0
+South Africa,0,0,0,0,0,0,1,1,0,2,2,0
+South Korea,0,0,0,0,0,0,1,2,1,0,2,0
+Spain,0,0,0,0,0,0,2,0,2,1,2,0
+Switzerland,0,0,0,0,0,0,1,2,1,0,2,0
+Turkey,2,1,2,1,1,1,2,0,2,1,0,1
+UK,0,0,0,0,0,0,1,2,2,1,2,0
+USA,1,2,1,2,2,2,0,2,0,2,1,2

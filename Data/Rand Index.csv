@@ -1,0 +1,13 @@
+,K-means,MB K-means,PCA+Kmeans,PCA+MB K-means,SPCA+Kmeans,SPCA+MB Kmeans,RPCA+K-means,RPCA+MB K-means,CUR+K-means,CUR+MB K-means,WPCA+K-means,WPCA+MB K-means
+K-means,1,1,1,1,1,1,0.5181,0.4601,0.6812,0.5,1,1
+MB K-means,,1,1,1,1,1,0.5118,0.4601,0.6812,0.5,1,1
+PCA+Kmeans,,,1,1,1,1,0.5118,0.4601,0.6812,0.5,1,1
+PCA+MB K-means,,,,1,1,1,0.5118,0.4601,0.6812,0.5,1,1
+SPCA+Kmeans,,,,,1,1,0.5118,0.4601,0.6812,0.5,1,1
+SPCA+MB Kmeans,,,,,,1,0.5118,0.4601,0.6812,0.5,1,1
+RPCA+K-means,,,,,,,1,0.913,0.4964,0.5833,0.5118,0.5118
+RPCA+MB K-means,,,,,,,,1,0.4674,0.6413,0.4601,0.4601
+CUR+K-means,,,,,,,,,1,0.6957,0.6812,0.6812
+CUR+MB K-means,,,,,,,,,,1,0.5,0.5
+WPCA+K-means,,,,,,,,,,,1,1
+WPCA+MB K-means,,,,,,,,,,,,1
